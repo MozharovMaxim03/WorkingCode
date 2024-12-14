@@ -2,6 +2,6 @@
 Testing of RayLib + Drag&Drop functional
 
 # Other
-libraries by Maxim: ml, rl\
-codes by Maxim: game, main\
-textures by Maxim: res/card, res/cardtype
+<b style="color: rgb(108, 164, 255);">libraries</b> by <b style="color: rgb(255, 60, 60);">Maxim</b>: ml, rl\
+<b style="color: rgb(108, 164, 255);">codes</b> by <b style="color: rgb(255, 60, 60);">Maxim</b>: game, main\
+<b style="color: rgb(108, 164, 255);">textures</b> by <b style="color: rgb(255, 60, 60);">Maxim</b>: res/card, res/cardtype
